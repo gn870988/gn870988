@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**gn870988/gn870988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+test
 
 Here are some ideas to get you started:
 
